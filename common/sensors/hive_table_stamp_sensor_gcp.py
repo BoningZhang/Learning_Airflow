@@ -1,3 +1,6 @@
+# you may visit my medium for thorough explanation: 
+# https://medium.com/@boning.zhangcu/an-airflow-sensor-for-stamp-files-in-google-cloud-storage-d2d51f9c756b
+
 import subprocess
 import logging
 
